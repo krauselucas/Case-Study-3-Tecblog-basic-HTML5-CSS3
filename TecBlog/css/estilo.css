@@ -1,4 +1,3 @@
-/*Limpar formatações padrão*/
 * {
 	margin: 0;
 	padding: 0;
@@ -10,9 +9,6 @@ body {
 	background: #e6e6e6;
 }
 
-/*
-**** Layout ****
-*/
 #area-cabecalho {
 	background-color: #f7b600;
 	padding: 15px;
@@ -64,9 +60,6 @@ body {
 	background: #CCC;
 }
 
-/*
-**** Formatação do menu ****
-*/
 a {
 	text-decoration: none;	
 }
@@ -90,9 +83,6 @@ a:hover {
 	text-decoration: none;
 }
 
-/*
-**** Formatações em geral ****
-*/
 h1 {
 	color: #4e4e4e;
 	font-size: 2.5em;
